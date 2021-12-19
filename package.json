@@ -1,0 +1,25 @@
+{
+  "name": "@tickety/bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "An open-source ticketing support bot for large discord servers",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedanwr/Tickety.git"
+  },
+  "keywords": [
+    "nodejs",
+    "discord.js",
+    "typescript"
+  ],
+  "author": "Naveed Ali Anwar <hello@naveedalianwar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedanwr/Tickety/issues"
+  },
+  "homepage": "https://github.com/nedanwr/Tickety#readme"
+}
